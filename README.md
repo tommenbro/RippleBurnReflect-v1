@@ -1,1 +1,1 @@
-SpringFloki website. Made with NextJs & TailwindCSS
+RippleBurnReflect website. Made with NextJs & TailwindCSS

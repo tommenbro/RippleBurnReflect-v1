@@ -40,7 +40,7 @@ export default function Landing() {
                     The revolutionary XRP rewards token, which brings real value to its investors
                     <br/>
                     <div className="mt-12 text-2xl">
-                    <span className="font-light text-2xl">Supply burnt: <span className="font-bold">5.92%</span></span>
+                    <span className="font-light text-2xl">Supply burnt: <span className="font-bold">6.21%</span></span>
                     </div>
                   </p>
                  
